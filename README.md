@@ -6,17 +6,21 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/s0LaDBm0wfMAAAAd/honkai-star-rail-hsr.gif"  />
+<div>
+
+<img align="right" height="303" src="https://media1.tenor.com/m/s0LaDBm0wfMAAAAd/honkai-star-rail-hsr.gif"  />
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DikiAj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DikiAj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+</div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DikiAj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DikiAj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="123" alt="languages graph"  />
-</div>
 
 ###
 
@@ -34,6 +38,7 @@
 </div>
 
 ###
+
 <!--
 **DikiAj/dikiaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
