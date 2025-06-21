@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="355" src="https://media1.tenor.com/m/s0LaDBm0wfMAAAAd/honkai-star-rail-hsr.gif"  />
 
 ###
